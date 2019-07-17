@@ -18,6 +18,7 @@ $ python manage.py runserver
 - http://localhost:8000/items/<int:pk>
 - http://localhost:8000/categories/
 - http://localhost:8000/categories/<int:pk>
+- http://localhost:8000/admin/
 ### Registration/Authorization URLs
 - http://localhost:8000/login/
 - http://localhost:8000/logout/
